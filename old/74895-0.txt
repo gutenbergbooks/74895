@@ -1,4 +1,6 @@
+﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74895 ***
+
 
 
 
@@ -3141,7 +3143,7 @@ Schatten unter den Augen erschienen noch tiefer. Wilhelm kämpfte mit
 dem Übelsein; aber als ihm die Schwester jetzt einen Kaffee und eine
 Kommißbrotschnitte, zur Feier des Sonntags mit Apfelkraut bestrichen,
 vorsetzte, wagte er nicht, dies auszuschlagen. Zögernd nahm er Schluck
-für Schluck. Der Kaffee würgte ihn förmlich im Halse, verzweifelt
+für Schluck. Der Kaffee würgte ihn förmlich im Halse, Verzweifelt
 stierte er auf das Brot – wie sollte er das herunterkriegen? Schon der
 Gedanke an essen trieb ihm den Schweiß auf die Stirn; schwindlig wurde
 ihm auch, und gähnen mußte er, gähnen, als wäre er drei Nächte in kein
@@ -4307,7 +4309,7 @@ eine Gasse, um ihn herauszulassen. –
 
 Es war gegen Pfingsten, als der Sergeant Befehl erhielt, in Elberfeld
 zur Probedienstleistung bei der Gendarmerie anzutreten. Der Abschied
-wurde ihm sauer. War auch Elberfeld nicht aus der Welt, so würde es
+wurde ihm sauer. War auch Elberseld nicht aus der Welt, so würde es
 doch schwierig werden, des Sonntags nach Düsseldorf herüberzufahren: es
 rauchen viel Fabrikschornsteine im bergischen Land, und der Sonnabend,
 der Auszahlungstag, und der folgende Sonntag noch, erforderten strammen
@@ -6697,7 +6699,7 @@ dann würde es schon Respekt kriegen, das übermütige Bürgerpack, dem
 der Buckel juckte vor lauter Wohlleben! Gut, daß der Prinz Wilhelm dem
 König zur Seite stand und General von Prittwitz die Truppen befehligte;
 das waren zwei Schneidige! Wenn nur erst der Prinz Wilhelm seinen
-Posten als Gouverneur der Rheinlande anträte, dann sollten sie hier
+Posten als Gouverneuer der Rheinlande anträte, dann sollten sie hier
 schon Augen machen: strammes Regiment, altpreußischer Geist, ein echter
 Soldatenprinz! –
 
@@ -11257,7 +11259,7 @@ Warum der Peter noch immer nicht kam?! Zum erstenmal hatte es schon
 Zapfenstreich geblasen. Sie strengte umsonst die Augen an. Endlich
 hörte sie seinen Schritt.
 
-»Mutter,« sprach er durch das Dunkel, und seine Stimme klang matt, »’n
+»Mutter.« sprach er durch das Dunkel, und seine Stimme klang matt, »’n
 Abend.«
 
 Sie fuhr auf ihn zu, sie hatte ja so nach ihm verlangt. »Krieg – wat
@@ -11872,7 +11874,7 @@ sie, wie weißes Wachs.
 
 Eine plötzliche Beklemmung war über die Zuschauer gekommen, und als
 ein Gassenjunge noch kreischte: ›Franzos’, Franzos’,‹ da zog ihn ein
-ehrsamer Bürger am Schlaffitchen vom Laternenpfahl herunter und gab ihm
+ehrsamer Bürger am Schlaffitchen vom Laternenfahl herunter und gab ihm
 einen tüchtigen hinten vor.
 
 Im tiefsten Schweigen setzte der Zug seinen Weg fort. Still,
@@ -13286,7 +13288,7 @@ Wer war das?! Den mußte sie doch kennen? Und da – plötzlich durchfuhr
 es sie – die Erinnerung kam rasch wie ein Pfeil – jetzt wußte sie’s:
 das war der Viktor gewesen!
 
-Sie trat auf das Monument zu. Unter dem jungen sterbenden Helden, den
+Sie trat auf das Monument zu. Unter dem jungem sterbenden Helden, den
 ein Engel zum Himmel weist, stand mit goldenen Buchstaben eingraviert:
 
     =Eugen Ernst August vom Werth=
@@ -13583,10 +13585,6 @@ ich jeh’ ens kucken!«)
 Seite 234: Punkt am Satzende ergänzt (Die Morgensuppe schmeckte heute
 dem Feldwebel nicht.)
 
-Seite 237: „Gouverneuer“ durch „Gouverneur“ ersetzt (... Wenn nur
-erst der Prinz Wilhelm seinen Posten als Gouverneur der Rheinlande
-anträte, ...)
-
 Seite 243: „Straßenplaster“ durch „Straßenpflaster“ ersetzt (...
 finster bohrte sich sein Blick in’s Straßenpflaster.)
 
@@ -13631,9 +13629,6 @@ Kartätschenprinz war ja nun König, ...)
 Seite 403: Punkt am Satzende ergänzt (... und machte das Zeichen des
 Kreuzes über seine Gemeinde.)
 
-Seite 421: „Laternenfahl“ durch „Laternenpfahl“ ersetzt (... da zog ihn
-ein ehrsamer Bürger am Schlaffitchen vom Laternenpfahl herunter ...)
-
 Seite 422: „Arzte“ durch „Ärzte“ ersetzt (... die gehetzten Ärzte
 reinigten ihre Sonden und griffen nach neuem Verbandzeug.)
 
@@ -13652,6 +13647,8 @@ Frau vom Werth?“)
 
 Seite 478: „beänstigend“ ersetzt durch „beängstigend“ (... seinen
 beängstigend fragenden Ruf.)
+
+
 
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74895 ***
